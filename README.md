@@ -1,2 +1,2 @@
 # Democatalogo
-Demo de catalogo son header ni footer, con bootstrap 3
+Demo de catalogo sin header ni footer, con bootstrap 3
